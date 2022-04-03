@@ -1,0 +1,7 @@
+.StatisticsText:not(:last-child) {
+  margin-bottom: 5px;
+}
+.StatisticsValue {
+  margin-left: 5px;
+  font-weight: 500;
+}
